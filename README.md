@@ -1,7 +1,7 @@
 <div align="center">
   <h1><b>Chrome Tabs</b></h1>
   <p>
-    A <code>Chrome Tab Indicator</code> with <strong>Prograssiveness</strong>.
+    A <code>Chrome Tab Indicator</code> with <strong>Progressiveness</strong>.
   </p>
 </div>
 
